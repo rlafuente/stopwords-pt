@@ -1,4 +1,7 @@
 partido
+apresentada
+vice
+primeiro
 primeiro-ministro
 governo
 governos
@@ -12,8 +15,12 @@ psd
 cds
 bloco
 pcp
+pp
 verdes
 mdpcde
+mdp
+cde
+prp
 parlamento
 aplausos
 portugal
@@ -28,6 +35,7 @@ palavra
 país
 distrito
 nº
+col
 votação
 resolução
 comissão
@@ -167,3 +175,7 @@ lida
 abstenções
 novo
 sentido
+lido
+ponto
+fez
+ver

@@ -1,3 +1,11 @@
+ex
+g
+art
+b
+np
+indep
+è
+p
 -
 -
 --
@@ -19,6 +27,14 @@ ano
 c
 c
 d
+i
+ii
+iv
+vi
+vii
+viii
+ix
+x
 iii
 iii
 l
@@ -30,3 +46,7 @@ s
 v
 vv
 vv
+xi
+xii
+xiii
+xiv
